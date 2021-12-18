@@ -6,7 +6,7 @@ Developed a causally ordered multicasting service and a unordered multicast
 2) Execute each process in seperate terminal window
 3) Try to execute all processes simultaneously within 1-2 seconds
 
-Ex :
+Ex :<br/>
 ./Unordered 1 (In terminal 1)<br/>
 ./Unordered 2 (In terminal 2)<br/> 
 ./Unordered 3 (In terminal 3)<br/> 
@@ -16,7 +16,7 @@ Ex :
 2) Execute each process in seperate terminal window
 3) Try to execute all processes simultaneously within 1-2 seconds
 
-Ex :
+Ex :<br/>
 ./CausalOrdered 1 (In terminal 1)<br/>
 ./CausalOrdered 2 (In terminal 2)<br/>
 ./CausalOrdered 3 (In terminal 3)<br/>
